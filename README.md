@@ -1,6 +1,7 @@
 # safe_inbox
 
-A new Flutter project.
+Deep Learning based mobile and web application which classifies spam and genuine SMS text
+Backend: https://github.com/GaneshSparkz/SMS-Spam-Classifier
 
 ## Getting Started
 
